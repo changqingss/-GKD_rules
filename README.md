@@ -1,8 +1,11 @@
 # @AIsouler/GKD_subscription
 
+
 ---
 
 ## 声明
+此项目来自GKD_subscription
+参考使用
 
 - **禁止在国内平台传播**
 - **本仓库仅供本人学习使用**
@@ -48,13 +51,6 @@ https://raw.githubusercontent.com/AIsouler/GKD_subscription/main/dist/AIsouler_g
 
 - 如何编写订阅/贡献此项目 -> [CONTRIBUTING.md](./CONTRIBUTING.md)
 
-## 赞助
-
-如果这个项目对您有帮助，欢迎赞助我，感谢您的支持！
-
-| 微信                                                                                    | 支付宝                                                                                      |
-| :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
-| ![Image](https://github.com/user-attachments/assets/16c5fdce-dec4-4e3b-a55f-ce08e94c6d02) | ![Image](https://github.com/user-attachments/assets/56bf69f4-aa06-423a-9964-e54ad3d59cf9) |
 
 爱发电：<https://ifdian.net/a/AIsouler>
 
